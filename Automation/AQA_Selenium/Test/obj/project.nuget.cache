@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rDnJit5OAGI08WjQRqlw4s8YtkdDhbgp6dvT36CJt6yJjd6h0iAHPhaD9NKOdPQZdd2ENeYXHpJPAUK0ZgE3AA==",
+  "dgSpecHash": "37qbPGCbnqlaFz8QuQ5EffwJX+62Yw8Us8leuV6jIH4AikV0MXY3V9TsGr9Myk8MTlS4tQjUuiyEB8r+vjYQdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yarik\\source\\repos\\Test\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Main\\AQA\\Automation\\AQA_Selenium\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yarik\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\Yarik\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",

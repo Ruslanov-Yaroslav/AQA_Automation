@@ -1293,11 +1293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yarik\\source\\repos\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Main\\AQA\\Automation\\AQA_Selenium\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Yarik\\source\\repos\\Test\\Test\\Test.csproj",
+      "projectPath": "C:\\Main\\AQA\\Automation\\AQA_Selenium\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Yarik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yarik\\source\\repos\\Test\\Test\\obj\\",
+      "outputPath": "C:\\Main\\AQA\\Automation\\AQA_Selenium\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

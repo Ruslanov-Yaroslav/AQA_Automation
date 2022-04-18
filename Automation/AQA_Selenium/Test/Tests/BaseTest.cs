@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Test.Pages;
@@ -25,7 +20,7 @@ namespace Test.Tests
         }
 
         [TearDown]
-        public void TestTearDown() => driver.Close();
+        public void TestTearDown() => driver.Quit();
 
         public WebDriver GetDriver() => driver;
 
