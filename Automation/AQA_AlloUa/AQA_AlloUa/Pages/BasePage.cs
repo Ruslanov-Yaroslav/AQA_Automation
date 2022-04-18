@@ -1,6 +1,5 @@
 ﻿using System;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.PageObjects;
 
@@ -9,12 +8,10 @@ namespace AQA_AlloUa.Pages
     public class BasePage
     {
         public IWebDriver driver;
-        public Actions action;
 
         public BasePage(IWebDriver driver)
         {
             this.driver = driver;
-            action = new Actions(driver);
             PageFactory.InitElements(driver , this);
         }
 

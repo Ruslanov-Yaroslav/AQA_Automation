@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Main\\Workspace\\QA_Aut_Lab_2022_C#\\projects\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj": {}
+    "C:\\Main\\AQA\\Automation\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj": {}
   },
   "projects": {
-    "C:\\Main\\Workspace\\QA_Aut_Lab_2022_C#\\projects\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj": {
+    "C:\\Main\\AQA\\Automation\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Main\\Workspace\\QA_Aut_Lab_2022_C#\\projects\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj",
+        "projectUniqueName": "C:\\Main\\AQA\\Automation\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj",
         "projectName": "AQA_AlloUa",
-        "projectPath": "C:\\Main\\Workspace\\QA_Aut_Lab_2022_C#\\projects\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj",
+        "projectPath": "C:\\Main\\AQA\\Automation\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj",
         "packagesPath": "C:\\Users\\Yarik\\.nuget\\packages\\",
-        "outputPath": "C:\\Main\\Workspace\\QA_Aut_Lab_2022_C#\\projects\\AQA_AlloUa\\AQA_AlloUa\\obj\\",
+        "outputPath": "C:\\Main\\AQA\\Automation\\AQA_AlloUa\\AQA_AlloUa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

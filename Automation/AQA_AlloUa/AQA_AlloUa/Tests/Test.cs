@@ -1,13 +1,11 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using System.Threading;
-using System.Linq;
 
 namespace AQA_AlloUa.Tests
 {
     public class Test : BaseTest
     {
-        private IWebDriver driver;
         [Test, Order(1)]
         public void CheckingIfCangingOfLocationIsCorrect()
         {
@@ -60,10 +58,8 @@ namespace AQA_AlloUa.Tests
         {
             GetHomePage().WaitPageLoad();
             GetHomePage().MoveToSectionLine();
-            //GetHomePage().WaitVisibilityOfElement(20, By.XPath("//a[@title='Apple']"));
             GetSectionPage().WaitPageLoad();
             GetHomePage().GoToAppleSection();
-            //GetSectionPage().WaitPageLoad();
             GetHomePage().WaitVisibilityOfElement(20, By.XPath("//label[@for='pricerange-from']//input[@class='price-form__input']"));
             GetSectionPage().SetPriceRange();
             GetSectionPage().SelectMakrdown();

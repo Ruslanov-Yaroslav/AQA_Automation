@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QmQMqB7sh9b3ehctoWlBE7UZwHF5Upb5vqspLxnNhggXKKVpnYfu4GxDVN3WzNUBNZqJjQTIur6rhztCPkDRXg==",
+  "dgSpecHash": "sJbR4eD455u9lJ3DByeNoWBtwAZm6IqJAfjHk6W1AAtn9yhRMJZiDhIZBR2DQCB1B0zmFxsdKrhxYh+VrHR1jQ==",
   "success": true,
-  "projectFilePath": "C:\\Main\\Workspace\\QA_Aut_Lab_2022_C#\\projects\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj",
+  "projectFilePath": "C:\\Main\\AQA\\Automation\\AQA_AlloUa\\AQA_AlloUa\\AQA_AlloUa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yarik\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
     "C:\\Users\\Yarik\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.0.1\\dotnetseleniumextras.pageobjects.core.4.0.1.nupkg.sha512",

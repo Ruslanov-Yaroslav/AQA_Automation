@@ -1,7 +1,6 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using ExpectedConditions = SeleniumExtras.WaitHelpers.ExpectedConditions;
 using OpenQA.Selenium.Interactions;
 using AQA_AlloUa.Pages;
 
@@ -23,7 +22,7 @@ namespace AQA_AlloUa.Tests
         }
 
         [TearDown]
-        public void TearDown() => driver.Close();
+        public void TearDown() => driver.Quit();
         
         public IWebDriver GetDriver()=> driver;
         

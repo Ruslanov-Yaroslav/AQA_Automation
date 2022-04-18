@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = AQA_AlloUa
-build_property.ProjectDir = C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\AQA_AlloUa\AQA_AlloUa\
+build_property.ProjectDir = C:\Main\AQA\Automation\AQA_AlloUa\AQA_AlloUa\
